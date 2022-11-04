@@ -1,4 +1,4 @@
-# gpd8043.github.io
+# Arch Linux Project
 ## Installing Linux
 I started out by navigating to archlinux.org, and clicking download, after scrolling all the way down to the direct https downloads and finding the mit.edu mirror. I downloaded the most recent ISO from the mirror. 
 
