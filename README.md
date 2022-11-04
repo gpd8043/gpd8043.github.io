@@ -154,7 +154,7 @@ To ensure that the VM extensions actually load properly, this command is below,
 
 ## Desktop Environment
 
-I chose to install Plasma as my DE, the command to install the entire Plasma set of extensions was listed below,
+I chose to install GNOME as my DE, the command to install the entire GNOME set of extensions and needed files was listed below,
 `pacman -S gnome`
 `pacman -S gnome-tweaks` was also recomended
 
