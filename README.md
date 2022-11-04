@@ -1,5 +1,5 @@
 # Arch Linux Project
-## Installing Linux
+## Installing Arch ISO
 I started out by navigating to archlinux.org, and clicking download, after scrolling all the way down to the direct https downloads and finding the mit.edu mirror. I downloaded the most recent ISO from the mirror. 
 
 After downloading the ISO, i used the command below on windows powershell, and compared the output with the given SHA256 hash provided by ArchLinux.org
