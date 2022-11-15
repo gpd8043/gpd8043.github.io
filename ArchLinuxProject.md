@@ -180,6 +180,6 @@ alias diff='colordiff'
 alias h='history'
 alias j='jobs -l'
 ```
+![Pasted image 20221103195838](https://user-images.githubusercontent.com/111905937/202046467-66622baf-a847-4510-8ba4-8f303f70b1fc.png)
 
-![[Pasted image 20221103195838.png]]
-![[Pasted image 20221103200007.png]]
+![Pasted image 20221103200007](https://user-images.githubusercontent.com/111905937/202046476-61fcf22f-fc54-406b-8815-dd4481d0ba91.png)
