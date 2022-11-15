@@ -84,6 +84,6 @@ Then changed the password to `sysadmin`, with this command
 `pihole -a -p`
 
 After `exit`-ing the container, you can navigate to the web dashboard by typing the IP address associated with the pi-hole. 
+![Pasted image 20221115172312](https://user-images.githubusercontent.com/111905937/202046400-742b6a4f-6d30-4aad-b798-7433ba26bdaa.png)
+![Pasted image 20221115172506](https://user-images.githubusercontent.com/111905937/202046409-a8ee30c8-f1a8-4c09-82e3-0b5a33253e6a.png)
 
-![[Pasted image 20221115172312.png]]
-![[Pasted image 20221115172506.png]]
