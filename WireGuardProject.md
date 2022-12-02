@@ -93,8 +93,11 @@ docker-compose logs -f wireguard
 After downloading the WireGuard app on my phone and used the QR code provided with the peer phone1 code.
 
 After naming the tunnel, turn on the VPN and test with the website. 
-![[pic 2.jpg]]
-![[pic .jpg]]
+![pic ](https://user-images.githubusercontent.com/111905937/205224490-acb2d4f8-8f50-4155-bea4-6a871fd7e7fa.jpg)
+
+![pic 2](https://user-images.githubusercontent.com/111905937/205224494-b57d370a-bbbe-4979-a021-42db0ea9ab7e.jpg)
+
+
 To utilize Wire Guard on desktop, first find the config file in the droplet. 
 ```
 cd ~/wireguard/configs/peer_pc1
@@ -102,5 +105,7 @@ nano peer_pc1.conf
 ```
 
 Then download that file to the desktop and throw it in WireGuard as a new tunnel. 
+<img width="960" alt="pic" src="https://user-images.githubusercontent.com/111905937/205224473-13165244-27e9-4f91-8e49-cdeffce71ae6.PNG">
 
-![[pic.png]]![[activePNG.png]]
+<img width="484" alt="activePNG" src="https://user-images.githubusercontent.com/111905937/205224484-ee7e43d3-d067-4536-86f7-e48a5dd45083.PNG">
+
